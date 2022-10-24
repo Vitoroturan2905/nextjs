@@ -1,0 +1,244 @@
+.geral_timeline{
+    color: brown;
+    border: black 1px solid;
+    width: 600px;
+    height: 900px;
+    display: flex;
+   background-color:  rgb(237, 239, 241);
+   margin-top: 15px;
+   border-radius: 5px;
+}
+
+.fotinha{
+    display:flex ;
+    flex-direction: column;
+    height: 400px;
+    width: 600px;
+    justify-content: space-between;
+}
+
+.img_perfil_fotinha{
+width: 50px;
+height: 50px;
+margin-top: 8px;
+margin-left: 10px;
+margin-right: 1px;
+border-radius: 50px;
+border: 3px solid rgb(106, 21, 209);
+}
+
+.nome_fotinha{
+    margin-top: 20px;
+    margin-left: 1px;
+    margin-right: 10px;
+    width: 200px;
+}
+
+.nome_fotinha_coments{
+    margin-top: 20px;
+    margin-left: 1px;
+    margin-right: 10px;
+    width: 500px;
+}
+
+.icone svg{
+    width: 35px;
+    height: 35px;
+    margin-right: 15px;
+    margin-top: 10px;
+    color: black;
+    
+}
+
+.icone{
+    height: 10%;
+    width: 500px;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.foto_nome{
+    display: flex;
+    width: 100%;
+}
+
+.img_timeline{
+    display: flex;
+}
+
+.img_timeline2{
+    width: 599px;
+    height: 500px;
+    margin-top: 10px;
+}
+
+.curtidas{
+    width: 70px;
+    height: 50px;
+    display: flex;
+    margin: 0;
+    padding: 1px;
+}
+
+.curtidas_pai{
+    width: 600px;
+    height: 50px;
+    display: flex;
+    margin: 0;
+    padding: 1px;
+    margin-top: 9px;
+    margin-left: 10px;
+    margin-bottom: 20px;
+}
+
+.detalhes_timeline{
+    width: 300px;
+    height: 50px;
+    display: flex;
+    
+}
+
+.detalhes_conteudo{
+    
+    display: flex;
+    flex-direction: row;
+    width: 400px;
+    margin-left: 13px;
+    height: 200px;
+    
+}
+
+.pesquisar_detalhes{
+    margin-top: 10  px;
+    width: 40px;
+    height: 40px; 
+}
+
+.as{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    
+}
+
+.a1{
+    margin-top: 10px;
+    margin-right: 15px;
+    
+}
+
+.a2{
+    color: rgb(101, 105, 105);
+    margin-top: 10px;
+}
+
+.a3{
+    color: rgb(101, 105, 105);
+    margin-top: 20px;
+    font-size: 12px;
+}
+
+
+.icone_curtidas{
+    width: 200px;
+    height: 100px;
+    display: flex;
+    margin: 0;
+    padding: 1px;
+    margin-left: 320px;
+}
+
+
+.icone1 svg{
+    height: 40px;
+    width: 40px;
+    display: flex;
+    color: black;
+}
+
+.icone1{
+    height: 10%;
+    width:600px;
+    display: flex;
+    cursor: pointer;
+    position: static;
+    left: 100px;
+    margin-left: 0%;
+    margin-top: 2%;
+    margin-bottom: 0%;
+    margin-right: 0%;
+}
+
+.icone2 svg{
+    height: 40px;
+    width: 40px;
+    display: flex;
+    color: black;
+    
+}
+
+.icone2{
+    height: 10%;
+    width:600px;
+    display: flex;
+    cursor: pointer;
+    position: static;
+    left: 100px;
+    margin-left: 0%;
+    margin-top: 2%;
+    margin-bottom: 0%;
+    margin-right: 0%;
+}
+
+.img_icone_curtida{
+    width: 20px;
+    height: 20px;
+    margin-right: 5px;
+    border-radius: 10px;
+}
+
+.coments{
+    display: flex;
+    flex-direction: row;
+    height: 100px;
+    width: 600px;
+    margin-top: 20px;
+    
+}
+
+.icone_coments{
+    height: 10%;
+    
+    display: flex;
+    
+}
+
+.icone_coments svg{
+    width: 35px;
+    height: 35px;
+    margin-right: 15px;
+    margin-top: 10px;
+    color: black;
+    
+}
+
+.nome_fotinha_pub{
+    margin-top: 20px;
+    margin-left: 1px;
+    margin-right: 10px;
+    width: 200px;
+    color: rgba(0, 0, 255, 0.399);
+}
+
+.a_time{
+    width: 300px;
+}
+
+.a_tam{
+    width: 300px;
+}
+
+
+
+
+
